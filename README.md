@@ -1,4 +1,4 @@
-# DevopsProject-2-Java
+# DevopsProject-2
 
 Ok, so I lied. I originally created this project over a year ago and thought I lost them it. Luckly, I stored my notes in my microsoft onenote account.
 <br>
